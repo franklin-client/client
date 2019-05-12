@@ -1,5 +1,5 @@
 {
-  "API_SERVER":"http://rinkeby.mattr.network",
+  "API_SERVER":"http://rinkeby1.matter-labs.io",
   "TRANSFER_BATCH_SIZE":"256",
   "trailing": null
 }
